@@ -1,7 +1,7 @@
 const linksSocialMedia = {
   github: "henriquekramer",
   youtube: "channel/UCGYgxYnlCcTQKFMwb6rM1LQ",
-  facebook: "maykbrito",
+  facebook: "henriquekramer",
   instagram: "kramerhenrique",
   twitter: "hkramer_"
 }
