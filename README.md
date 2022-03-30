@@ -11,7 +11,7 @@ O virtual badge - crachá virtual foi um projeto desenvovido na NLW 7 - Origin d
 
 <h1>Desktop & Mobile</h1>
 <p align="center">
-  <img alt="" src="https://user-images.githubusercontent.com/97106134/158298694-333d88fc-150a-47df-8d81-194cd3985f5b.png" width="100%">
+  <img alt="" src="https://user-images.githubusercontent.com/97106134/160901052-6285b519-3155-4977-8c5b-ffa9369c1e25.PNG" width="100%">
   
 </p>
 
